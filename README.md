@@ -1,2 +1,2 @@
-# CSC585-Assignment1
+# CSC584-Assignment1
 Personal Profile Web Application
